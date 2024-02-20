@@ -1,0 +1,20 @@
+What is the capital of France?,The capital of France is Paris.
+Who is the president of the United States?,As of 2024, the president of the United States is Joe Biden.
+What is the tallest mountain in the world?,Mount Everest is the tallest mountain in the world.
+What is the currency of Japan?,The currency of Japan is the Japanese Yen.
+What is the boiling point of water?,The boiling point of water is 100 degrees Celsius or 212 degrees Fahrenheit at sea level.
+What is the largest ocean on Earth?,The largest ocean on Earth is the Pacific Ocean.
+Who wrote the play "Romeo and Juliet"?,William Shakespeare wrote the play "Romeo and Juliet."
+What is the formula for calculating the area of a circle?,The formula for calculating the area of a circle is πr^2, where r is the radius of the circle.
+Hi,How are you?,Hello!,I'm doing well, thanks for asking!
+What's up?,Hey!,Not much, just chatting with you!
+What is your name?,I'm a chatbot. You can call me Chatbot.
+Can you tell me the current time?,I'm sorry, I can't provide real-time information.
+What's the date today?,I'm sorry, I can't provide real-time information.
+Where are you located?,I exist in the digital realm!
+What's the weather like today?,I'm sorry, I can't provide real-time weather information.
+Can you tell me a joke?,Sure! Why don't scientists trust atoms? Because they make up everything!
+What's the meaning of life?,The meaning of life is subjective and varies for each individual.
+Do you have any pets?,I'm a virtual entity, so I don't have any pets.
+What is the speed of light?,The speed of light in a vacuum is approximately 299,792 kilometers per second.
+Who invented the telephone?,Alexander Graham Bell is credited with inventing the telephone.
